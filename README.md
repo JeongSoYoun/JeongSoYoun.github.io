@@ -1,2 +1,2 @@
-# JeongSoYoun.github.io
-Dev Blog
+# Personal Dev Blog
+Research, Portfolio Blog
