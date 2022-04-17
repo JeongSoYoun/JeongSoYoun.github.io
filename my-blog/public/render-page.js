@@ -1,12 +1,12 @@
 (function webpackUniversalModuleDefinition(root, factory) {
 	if(typeof exports === 'object' && typeof module === 'object')
-		module.exports = factory(require("/Users/yoon/dev/my-blog/node_modules/@reach/router/index.js"), require("fs"), require("/Users/yoon/dev/my-blog/node_modules/lodash/forEach.js"), require("/Users/yoon/dev/my-blog/node_modules/lodash/isArray.js"), require("/Users/yoon/dev/my-blog/node_modules/lodash/isFunction.js"), require("/Users/yoon/dev/my-blog/node_modules/lodash/isNumber.js"), require("/Users/yoon/dev/my-blog/node_modules/lodash/isObject.js"), require("/Users/yoon/dev/my-blog/node_modules/lodash/isString.js"), require("/Users/yoon/dev/my-blog/node_modules/lodash/merge.js"), require("/Users/yoon/dev/my-blog/node_modules/lodash/reduce.js"), require("/Users/yoon/dev/my-blog/node_modules/lodash/set.js"), require("path"), require("react"), require("react-dom/server"), require("react-helmet"));
+		module.exports = factory(require("/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/@reach/router/index.js"), require("fs"), require("/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/forEach.js"), require("/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/isArray.js"), require("/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/isFunction.js"), require("/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/isNumber.js"), require("/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/isObject.js"), require("/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/isString.js"), require("/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/merge.js"), require("/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/reduce.js"), require("/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/set.js"), require("path"), require("react"), require("react-dom/server"), require("react-helmet"));
 	else if(typeof define === 'function' && define.amd)
-		define("lib", ["/Users/yoon/dev/my-blog/node_modules/@reach/router/index.js", "fs", "/Users/yoon/dev/my-blog/node_modules/lodash/forEach.js", "/Users/yoon/dev/my-blog/node_modules/lodash/isArray.js", "/Users/yoon/dev/my-blog/node_modules/lodash/isFunction.js", "/Users/yoon/dev/my-blog/node_modules/lodash/isNumber.js", "/Users/yoon/dev/my-blog/node_modules/lodash/isObject.js", "/Users/yoon/dev/my-blog/node_modules/lodash/isString.js", "/Users/yoon/dev/my-blog/node_modules/lodash/merge.js", "/Users/yoon/dev/my-blog/node_modules/lodash/reduce.js", "/Users/yoon/dev/my-blog/node_modules/lodash/set.js", "path", "react", "react-dom/server", "react-helmet"], factory);
+		define("lib", ["/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/@reach/router/index.js", "fs", "/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/forEach.js", "/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/isArray.js", "/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/isFunction.js", "/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/isNumber.js", "/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/isObject.js", "/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/isString.js", "/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/merge.js", "/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/reduce.js", "/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/set.js", "path", "react", "react-dom/server", "react-helmet"], factory);
 	else if(typeof exports === 'object')
-		exports["lib"] = factory(require("/Users/yoon/dev/my-blog/node_modules/@reach/router/index.js"), require("fs"), require("/Users/yoon/dev/my-blog/node_modules/lodash/forEach.js"), require("/Users/yoon/dev/my-blog/node_modules/lodash/isArray.js"), require("/Users/yoon/dev/my-blog/node_modules/lodash/isFunction.js"), require("/Users/yoon/dev/my-blog/node_modules/lodash/isNumber.js"), require("/Users/yoon/dev/my-blog/node_modules/lodash/isObject.js"), require("/Users/yoon/dev/my-blog/node_modules/lodash/isString.js"), require("/Users/yoon/dev/my-blog/node_modules/lodash/merge.js"), require("/Users/yoon/dev/my-blog/node_modules/lodash/reduce.js"), require("/Users/yoon/dev/my-blog/node_modules/lodash/set.js"), require("path"), require("react"), require("react-dom/server"), require("react-helmet"));
+		exports["lib"] = factory(require("/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/@reach/router/index.js"), require("fs"), require("/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/forEach.js"), require("/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/isArray.js"), require("/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/isFunction.js"), require("/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/isNumber.js"), require("/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/isObject.js"), require("/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/isString.js"), require("/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/merge.js"), require("/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/reduce.js"), require("/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/set.js"), require("path"), require("react"), require("react-dom/server"), require("react-helmet"));
 	else
-		root["lib"] = factory(root["/Users/yoon/dev/my-blog/node_modules/@reach/router/index.js"], root["fs"], root["/Users/yoon/dev/my-blog/node_modules/lodash/forEach.js"], root["/Users/yoon/dev/my-blog/node_modules/lodash/isArray.js"], root["/Users/yoon/dev/my-blog/node_modules/lodash/isFunction.js"], root["/Users/yoon/dev/my-blog/node_modules/lodash/isNumber.js"], root["/Users/yoon/dev/my-blog/node_modules/lodash/isObject.js"], root["/Users/yoon/dev/my-blog/node_modules/lodash/isString.js"], root["/Users/yoon/dev/my-blog/node_modules/lodash/merge.js"], root["/Users/yoon/dev/my-blog/node_modules/lodash/reduce.js"], root["/Users/yoon/dev/my-blog/node_modules/lodash/set.js"], root["path"], root["react"], root["react-dom/server"], root["react-helmet"]);
+		root["lib"] = factory(root["/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/@reach/router/index.js"], root["fs"], root["/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/forEach.js"], root["/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/isArray.js"], root["/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/isFunction.js"], root["/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/isNumber.js"], root["/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/isObject.js"], root["/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/isString.js"], root["/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/merge.js"], root["/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/reduce.js"], root["/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/set.js"], root["path"], root["react"], root["react-dom/server"], root["react-helmet"]);
 })(this, function(__WEBPACK_EXTERNAL_MODULE__reach_router__, __WEBPACK_EXTERNAL_MODULE_fs__, __WEBPACK_EXTERNAL_MODULE_lodash_forEach__, __WEBPACK_EXTERNAL_MODULE_lodash_isArray__, __WEBPACK_EXTERNAL_MODULE_lodash_isFunction__, __WEBPACK_EXTERNAL_MODULE_lodash_isNumber__, __WEBPACK_EXTERNAL_MODULE_lodash_isObject__, __WEBPACK_EXTERNAL_MODULE_lodash_isString__, __WEBPACK_EXTERNAL_MODULE_lodash_merge__, __WEBPACK_EXTERNAL_MODULE_lodash_reduce__, __WEBPACK_EXTERNAL_MODULE_lodash_set__, __WEBPACK_EXTERNAL_MODULE_path__, __WEBPACK_EXTERNAL_MODULE_react__, __WEBPACK_EXTERNAL_MODULE_react_dom_server__, __WEBPACK_EXTERNAL_MODULE_react_helmet__) {
 return /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
@@ -125,19 +125,19 @@ var plugins = [{
   plugin: __webpack_require__(/*! ./node_modules/gatsby-plugin-manifest/gatsby-ssr */ "./node_modules/gatsby-plugin-manifest/gatsby-ssr.js"),
   options: {
     "plugins": [],
-    "name": "Bee starter",
-    "short_name": "Bee starter",
+    "name": "Yoon's Dev ",
+    "short_name": "Yoon's Dev ",
     "start_url": "/",
     "background_color": "#ffffff",
     "theme_color": "#663399",
     "display": "minimal-ui",
-    "icon": "content/assets/felog.png",
+    "icon": "content/assets/me2.jpg",
     "legacy": true,
     "theme_color_in_head": true,
     "cache_busting_mode": "query",
     "crossOrigin": "anonymous",
     "include_favicon": true,
-    "cacheDigest": "08d1167632bb288cc6b3d20157af049c"
+    "cacheDigest": "a709f7426aaeed0925ff0ce9f56bc109"
   }
 }, {
   plugin: __webpack_require__(/*! ./node_modules/gatsby-plugin-typography/gatsby-ssr */ "./node_modules/gatsby-plugin-typography/gatsby-ssr.js"),
@@ -34264,9 +34264,9 @@ const scale = typography.scale;
 /***/ }),
 
 /***/ "@reach/router":
-/*!******************************************************************************!*\
-  !*** external "/Users/yoon/dev/my-blog/node_modules/@reach/router/index.js" ***!
-  \******************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** external "/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/@reach/router/index.js" ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -34286,9 +34286,9 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_fs__;
 /***/ }),
 
 /***/ "lodash/forEach":
-/*!*************************************************************************!*\
-  !*** external "/Users/yoon/dev/my-blog/node_modules/lodash/forEach.js" ***!
-  \*************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** external "/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/forEach.js" ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -34297,9 +34297,9 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_lodash_forEach__;
 /***/ }),
 
 /***/ "lodash/isArray":
-/*!*************************************************************************!*\
-  !*** external "/Users/yoon/dev/my-blog/node_modules/lodash/isArray.js" ***!
-  \*************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** external "/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/isArray.js" ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -34308,9 +34308,9 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_lodash_isArray__;
 /***/ }),
 
 /***/ "lodash/isFunction":
-/*!****************************************************************************!*\
-  !*** external "/Users/yoon/dev/my-blog/node_modules/lodash/isFunction.js" ***!
-  \****************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** external "/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/isFunction.js" ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -34319,9 +34319,9 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_lodash_isFunction__;
 /***/ }),
 
 /***/ "lodash/isNumber":
-/*!**************************************************************************!*\
-  !*** external "/Users/yoon/dev/my-blog/node_modules/lodash/isNumber.js" ***!
-  \**************************************************************************/
+/*!************************************************************************************************!*\
+  !*** external "/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/isNumber.js" ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -34330,9 +34330,9 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_lodash_isNumber__;
 /***/ }),
 
 /***/ "lodash/isObject":
-/*!**************************************************************************!*\
-  !*** external "/Users/yoon/dev/my-blog/node_modules/lodash/isObject.js" ***!
-  \**************************************************************************/
+/*!************************************************************************************************!*\
+  !*** external "/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/isObject.js" ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -34341,9 +34341,9 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_lodash_isObject__;
 /***/ }),
 
 /***/ "lodash/isString":
-/*!**************************************************************************!*\
-  !*** external "/Users/yoon/dev/my-blog/node_modules/lodash/isString.js" ***!
-  \**************************************************************************/
+/*!************************************************************************************************!*\
+  !*** external "/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/isString.js" ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -34352,9 +34352,9 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_lodash_isString__;
 /***/ }),
 
 /***/ "lodash/merge":
-/*!***********************************************************************!*\
-  !*** external "/Users/yoon/dev/my-blog/node_modules/lodash/merge.js" ***!
-  \***********************************************************************/
+/*!*********************************************************************************************!*\
+  !*** external "/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/merge.js" ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -34363,9 +34363,9 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_lodash_merge__;
 /***/ }),
 
 /***/ "lodash/reduce":
-/*!************************************************************************!*\
-  !*** external "/Users/yoon/dev/my-blog/node_modules/lodash/reduce.js" ***!
-  \************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** external "/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/reduce.js" ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -34374,9 +34374,9 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_lodash_reduce__;
 /***/ }),
 
 /***/ "lodash/set":
-/*!*********************************************************************!*\
-  !*** external "/Users/yoon/dev/my-blog/node_modules/lodash/set.js" ***!
-  \*********************************************************************/
+/*!*******************************************************************************************!*\
+  !*** external "/Users/yoon/dev/JeongSoYoun.github.io/my-blog/node_modules/lodash/set.js" ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 

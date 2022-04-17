@@ -1,22 +1,22 @@
 module.exports = {
-  title: `Bee starter`,
+  title: `Yoon's Dev `,
   description: `Blog posted about ...`,
-  author: `[Your Name]`,
+  author: `[JeongSoYoun]`,
   introduction: `I explain with words and code. I explain with words and code. I explain with words and code.`,
-  siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
+  siteUrl: `https://jeongsoyoun.github.io`, // Your blog site url
   social: {
-    twitter: ``, // Your Twitter account
-    github: ``, // Your GitHub account
-    medium: ``, // Your Medium account
-    facebook: ``, // Your Facebook account
-    linkedin: ``, // Your LinkedIn account
+    twitter: `https://twitter.com/cocoYoon0306`, // Your Twitter account
+    github: `https://github.com/JeongSoYoun`, // Your GitHub account
+    medium: `https://medium.com/@cocoyoon`, // Your Medium account
+    facebook: `https://www.facebook.com/profile.php?id=100004061031927`, // Your Facebook account
+    linkedin: `https://www.linkedin.com/in/soyoun-jeong-066165179/`, // Your LinkedIn account
     instagram: ``, // Your Instagram account
   },
   icon: `content/assets/felog.png`, // Add your favicon
   keywords: [`blog`],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.
-    utterances: 'JaeYeopHan/gatsby-starter-bee', // Your repository for archive comment
+    utterances: 'https://github.com/JeongSoYoun', // Your repository for archive comment
   },
   configs: {
     countOfInitialPost: 10, // Config your initial count of post
@@ -29,5 +29,4 @@ module.exports = {
   },
   ga: '0', // Add your google analytics tranking ID
   ad: '', // Add your google adsense publisherId `ca-pub-xxxxxxxxxx`
-
 }
