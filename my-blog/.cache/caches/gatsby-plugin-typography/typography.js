@@ -1,1 +1,0 @@
-module.exports = require("/Users/yoon/dev/my-blog/src/utils/typography")
