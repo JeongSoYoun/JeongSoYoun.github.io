@@ -1,6 +1,6 @@
 import React from 'react'
 import { graphql } from 'gatsby'
-
+import Bio from '../components/bio'
 import { rhythm } from '../utils/typography'
 import * as Lang from '../constants'
 
@@ -23,6 +23,7 @@ export default ({ data }) => {
       }}
     >
       <div dangerouslySetInnerHTML={{ __html: resume.html }} />
+      <Bio />
     </div>
   )
 }
