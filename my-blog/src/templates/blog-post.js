@@ -29,16 +29,17 @@ export default ({ data, pageContext, location }) => {
   const { title, comment, siteUrl, author, sponsor } = metaData
   const { utterances } = comment
   const { title: postTitle, date } = post.frontmatter
-  console.log(utterances)
   return (
     <Layout location={location} title={title}>
       <Head title={postTitle} description={post.excerpt} />
       <PostTitle title={postTitle} />
       <PostDate date={date} />
       <PostContainer html={post.html} />
+      {typeof window !== undefined ? (
+        <SocialShare title={postTitle} author={author} />
+      ) : null}
       <Elements.Hr />
       <Utterances />
-      <SocialShare title={postTitle} author={author} />
       <Elements.Hr />
       <Bio />
       <PostNavigator pageContext={pageContext} />
