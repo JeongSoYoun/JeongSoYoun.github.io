@@ -1,5 +1,6 @@
 import React from 'react'
 import { graphql } from 'gatsby'
+import { Top } from '../components/top'
 import Bio from '../components/bio'
 import { rhythm } from '../utils/typography'
 import * as Lang from '../constants'
@@ -12,19 +13,28 @@ export default ({ data }) => {
     .map(({ node }) => node)[0]
 
   return (
-    <div
-      style={{
-        marginLeft: `auto`,
-        marginRight: `auto`,
-        maxWidth: rhythm(24),
-        padding: `${rhythm(0.5)} ${rhythm(3 / 4)} ${rhythm(1.5)} ${rhythm(
-          3 / 4
-        )}`,
-      }}
-    >
-      <div dangerouslySetInnerHTML={{ __html: resume.html }} />
-      <Bio />
-    </div>
+    <>
+      <Top
+        title="Yoon's Dev"
+        location={{
+          pathname: 'dummy',
+        }}
+        rootPath={'dummy2'}
+      />
+      <div
+        style={{
+          marginLeft: `auto`,
+          marginRight: `auto`,
+          maxWidth: rhythm(24),
+          padding: `${rhythm(0.5)} ${rhythm(3 / 4)} ${rhythm(1.5)} ${rhythm(
+            3 / 4
+          )}`,
+        }}
+      >
+        <div dangerouslySetInnerHTML={{ __html: resume.html }} />
+        <Bio />
+      </div>
+    </>
   )
 }
 

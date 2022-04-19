@@ -27,28 +27,29 @@ export default ({ data, pageContext, location }) => {
   const post = data.markdownRemark
   const metaData = data.site.siteMetadata
   const { title, comment, siteUrl, author, sponsor } = metaData
-  const { disqusShortName, utterances } = comment
+  const { utterances } = comment
   const { title: postTitle, date } = post.frontmatter
-
+  console.log(utterances)
   return (
     <Layout location={location} title={title}>
       <Head title={postTitle} description={post.excerpt} />
       <PostTitle title={postTitle} />
       <PostDate date={date} />
       <PostContainer html={post.html} />
-      {/* <SocialShare title={postTitle} author={author} /> */}
+      <Elements.Hr />
+      <Utterances />
+      <SocialShare title={postTitle} author={author} />
       <Elements.Hr />
       <Bio />
       <PostNavigator pageContext={pageContext} />
-      {!!disqusShortName && (
+      {/* {!!disqusShortName && (
         <Disqus
           post={post}
           shortName={disqusShortName}
           siteUrl={siteUrl}
           slug={pageContext.slug}
         />
-      )}
-      {!!utterances && <Utterances repo={utterances} />}
+      )} */}
     </Layout>
   )
 }
@@ -61,7 +62,6 @@ export const pageQuery = graphql`
         author
         siteUrl
         comment {
-          disqusShortName
           utterances
         }
         sponsor {
