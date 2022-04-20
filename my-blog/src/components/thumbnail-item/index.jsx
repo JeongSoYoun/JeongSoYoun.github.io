@@ -25,11 +25,11 @@ export const ThumbnailItem = ({ node }) => (
               <p style={{ fontSize: 10 }}>{node.frontmatter.date}</p>
             </Curation>
           </Info>
-          <h3 style={{ marginTop: 0, marginBottom: 20, fontSize: 20 }}>
+          <h3 style={{ marginTop: 0, marginBottom: 20, fontSize: 18 }}>
             {node.frontmatter.title}
           </h3>
           <p
-            style={{ fontSize: 10 }}
+            style={{ fontSize: 12 }}
             dangerouslySetInnerHTML={{ __html: node.excerpt }}
           />
           <Tags>
@@ -40,7 +40,7 @@ export const ThumbnailItem = ({ node }) => (
         </div>
         <Image
           name={node.frontmatter.image}
-          width={80}
+          width={60}
           style={{
             objectFit: 'contain',
             boxShadow: '1px 1px 5px rgb(3, 26, 26)',
