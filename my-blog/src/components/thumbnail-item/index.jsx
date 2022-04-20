@@ -9,31 +9,29 @@ import './index.scss'
 export const ThumbnailItem = ({ node }) => (
   <Link className={`thumbnail ${TARGET_CLASS}`} to={node.fields.slug}>
     <div key={node.fields.slug}>
-      <div
-        style={{
-          display: 'flex',
-          flexDirection: 'row',
-          justifyContent: 'space-between',
-          alignItems: 'center',
-          padding: 10,
-        }}
-      >
-        <Tag>{node.frontmatter.tag}</Tag>
-      </div>
       <div className="body">
-        <Image name={node.frontmatter.image} width={150} />
         <div className="info">
-          <h3>{node.frontmatter.title}</h3>
+          <Info>
+            <Curation>
+              <Image
+                name={'me'}
+                width={20}
+                style={{ borderRadius: 20, marginRight: 10 }}
+              />
+              <p style={{ fontSize: 10 }}>{node.frontmatter.date}</p>
+            </Curation>
+            <Tag>{node.frontmatter.tag}</Tag>
+          </Info>
+          <h3 style={{ marginTop: 0, marginBottom: 20 }}>
+            {node.frontmatter.title}
+          </h3>
           <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
-          <Curation>
-            <Image
-              name={'me'}
-              width={20}
-              style={{ borderRadius: 20, marginRight: 10 }}
-            />
-            <p style={{ fontSize: 10 }}>{node.frontmatter.date}</p>
-          </Curation>
         </div>
+        <Image
+          name={node.frontmatter.image}
+          width={80}
+          style={{ objectFit: 'contain' }}
+        />
       </div>
     </div>
   </Link>
@@ -50,10 +48,16 @@ const Tag = styled.div`
   color: black;
 `
 
+const Info = styled.div`
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+`
+
 const Curation = styled.div`
   display: flex;
   flex-direction: row;
   align-items: center;
-  width: 100%;
-  justify-content: flex-end;
+  justify-content: flex-start;
+  margin-right: 10px;
 `
