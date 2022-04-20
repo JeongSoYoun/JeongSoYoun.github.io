@@ -16,21 +16,31 @@ export const ThumbnailItem = ({ node }) => (
               <Image
                 name={'me'}
                 width={20}
-                style={{ borderRadius: 20, marginRight: 10 }}
+                style={{
+                  borderRadius: 20,
+                  marginRight: 10,
+                  boxShadow: '2px 1px 5px rgb(3, 24, 21)',
+                }}
               />
               <p style={{ fontSize: 10 }}>{node.frontmatter.date}</p>
             </Curation>
             <Tag>{node.frontmatter.tag}</Tag>
           </Info>
-          <h3 style={{ marginTop: 0, marginBottom: 20 }}>
+          <h3 style={{ marginTop: 0, marginBottom: 20, fontSize: 20 }}>
             {node.frontmatter.title}
           </h3>
-          <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
+          <p
+            style={{ fontSize: 10 }}
+            dangerouslySetInnerHTML={{ __html: node.excerpt }}
+          />
         </div>
         <Image
           name={node.frontmatter.image}
           width={80}
-          style={{ objectFit: 'contain' }}
+          style={{
+            objectFit: 'contain',
+            boxShadow: '1px 1px 5px rgb(3, 26, 26)',
+          }}
         />
       </div>
     </div>
@@ -39,8 +49,10 @@ export const ThumbnailItem = ({ node }) => (
 
 const Tag = styled.div`
   border-radius: 5px;
-  height: 20px;
-  padding: 3px 5px;
+  margin-left: 20px;
+  width: 60px;
+  height: 18px;
+  padding: 0.2px 5px;
   background-color: #1bceb3;
   text-align: center;
   font-size: 10px;
