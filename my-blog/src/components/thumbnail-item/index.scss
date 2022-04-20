@@ -3,7 +3,7 @@
 .thumbnail {
   display: block;
   margin-bottom: 5px;
-  margin-top: 10px;
+  margin-top: 20px;
   padding: 10px;
   padding-bottom: 12px;
   box-shadow: 2px 1px 5px rgb(3, 24, 21);
@@ -19,12 +19,22 @@
   }
 }
 
-.header {
+.body {
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-start;
   margin-bottom: 10px;
+  margin-top: 20px;
+  padding: 0px 10px;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-left: 50px;
+  margin-bottom: 30px;
 }
 
 .thumbnail.visible {
