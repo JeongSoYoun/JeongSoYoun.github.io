@@ -24,7 +24,6 @@ export const ThumbnailItem = ({ node }) => (
               />
               <p style={{ fontSize: 10 }}>{node.frontmatter.date}</p>
             </Curation>
-            <Tag>{node.frontmatter.tag}</Tag>
           </Info>
           <h3 style={{ marginTop: 0, marginBottom: 20, fontSize: 20 }}>
             {node.frontmatter.title}
@@ -33,6 +32,11 @@ export const ThumbnailItem = ({ node }) => (
             style={{ fontSize: 10 }}
             dangerouslySetInnerHTML={{ __html: node.excerpt }}
           />
+          <Tags>
+            {node.frontmatter.tags.map(tag => {
+              return <Tag>{tag}</Tag>
+            })}
+          </Tags>
         </div>
         <Image
           name={node.frontmatter.image}
@@ -47,17 +51,25 @@ export const ThumbnailItem = ({ node }) => (
   </Link>
 )
 
+const Tags = styled.div`
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 10px;
+  width: 100%;
+`
+
 const Tag = styled.div`
   border-radius: 5px;
-  margin-left: 20px;
-  width: 60px;
+  margin-right: 10px;
+  margin-top: 20px;
   height: 18px;
-  padding: 0.2px 5px;
+  padding: 1px 5px;
   background-color: #1bceb3;
   text-align: center;
   font-size: 10px;
   font-weight: bold;
   color: black;
+  box-shadow: '1px 1px 5px rgb(3, 26, 26)';
 `
 
 const Info = styled.div`
