@@ -35,10 +35,10 @@ export default ({ data, pageContext, location }) => {
       <PostTitle title={postTitle} />
       <PostDate date={date} />
       <PostContainer html={post.html} />
+      <Elements.Hr />
       {typeof window !== undefined ? (
         <SocialShare title={postTitle} author={author} />
       ) : null}
-      <Elements.Hr />
       <Utterances />
       <Elements.Hr />
       <Bio />

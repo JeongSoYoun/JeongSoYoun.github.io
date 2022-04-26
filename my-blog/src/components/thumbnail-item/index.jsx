@@ -28,10 +28,7 @@ export const ThumbnailItem = ({ node }) => (
           <h3 style={{ marginTop: 0, marginBottom: 20, fontSize: 18 }}>
             {node.frontmatter.title}
           </h3>
-          <p
-            style={{ fontSize: 12 }}
-            dangerouslySetInnerHTML={{ __html: node.excerpt }}
-          />
+          <p style={{ fontSize: 12 }}>{node.frontmatter.summary}</p>
           <Tags>
             {node.frontmatter.tags.map(tag => {
               return <Tag>{tag}</Tag>
