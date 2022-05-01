@@ -1,5 +1,5 @@
 ---
-title: 'Substrate Frame'
+title: 'Substrate FRAME'
 date: 2022-05-01 00:00:00
 category: 'Blockchain'
 tags: ['Blockchain', 'Substrate', 'FRAME']
