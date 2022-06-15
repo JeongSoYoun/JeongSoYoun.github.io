@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Yoon's Dev ]]></title><description><![CDATA[Blog posted about ...]]></description><link>https://jeongsoyoun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 14 Jun 2022 09:41:41 GMT</lastBuildDate><item><title><![CDATA[Polkadot Staking Curating Platform]]></title><description><![CDATA[Polkadot Hackthon 2022 Project hosted by One Block & Parity Staking curating platform in Polkadot ecosytem that recommends our platform…]]></description><link>https://jeongsoyoun.github.io/Portfolio/polkadot_staking_platform/</link><guid isPermaLink="false">https://jeongsoyoun.github.io/Portfolio/polkadot_staking_platform/</guid><pubDate>Thu, 30 Jun 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;br /&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1200px; &quot;&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Yoon's Dev ]]></title><description><![CDATA[Blog posted about ...]]></description><link>https://jeongsoyoun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 15 Jun 2022 14:23:04 GMT</lastBuildDate><item><title><![CDATA[Polkadot Staking Curating Platform]]></title><description><![CDATA[Polkadot Hackthon 2022 Project hosted by One Block & Parity Staking curating platform in Polkadot ecosytem that recommends our users to have…]]></description><link>https://jeongsoyoun.github.io/Portfolio/polkadot_staking_platform/</link><guid isPermaLink="false">https://jeongsoyoun.github.io/Portfolio/polkadot_staking_platform/</guid><pubDate>Thu, 30 Jun 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;br /&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1200px; &quot;&gt;
       &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 49%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAABYlAAAWJQFJUiTwAAACnklEQVQozz2SS08TYRiFZ+EGlYstc+nM0GlrL7Fyr5cWS6VKCwi0Ar0ALaWtWpFGRS0aUFCJuiFR0ejGhS40/AIXRnfudeXCxP/yOJ0YF1/Ol3fx5LznPcIRWeawzUa7KNL8N7VDkrApivWaM7upbZJoaZ8RJO2Lce3YNNs9C2z25MkG4uiawYHOdgRR0wiFwxheL6rhwh0I4HA6/wObkFapk6P6UXL+82z6s+x5y+x76nzzNPjZu8Pv8C5fY9vUeqcRZF3nZGTIArXa7WguF4oJPNjRQYfptk0W8XV5qfovcN+V4ZGe5amW54Ve5J1xiU+uFb74Gvzoecyf6HOEyHCMtUaDzPwCdzc2mMnluLpap3L5CmfiI9hFmWIgyaYxx4Y2w7qa4o6W4paeoqGn2erK8MQ5zytPha/BewjeYJDRiQniiSSLpRKF0jL5xQIzmSz+/l7OeAbZ9uXZ0ua440ixql3gkpqkqiQoO0YpqufI6GepuSd5464iNPN7uLPDUrlCYXmZ3MIiK/W65bJUrfL+8WvenqizJc2wpk9TdSQoynGycoyUNERSPsW4EqasJ3hplBD8x48zXyiysLREanaW0OkwvaEQ/u5uhsJRdkdW+eBb4amao65PUlbOk5GHmRBPE5dCxKRBpuQIK9o4D8z1hRORCLfX17m+tka1ViPY10dLWzuH7DY0pYu9QIXPzpvsGgWua5MUlXNMSWELFhX7GZNOmW6HqTnGuO+cQ1DNqzrNyugeDz4zT83ttqpyRJFRdScfB2/w3b/BG6NiHSLvOMuodJJhcYCkCUubaxfkEa6oY9aRhGbXOlXV6lyzk3aHA9u/MrdIdvYGLvNr4Bn77lXudl0krUZJmLlNmi5npSiLJmzZjOGaOmEB/wJIEFt9xTakaAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;oneblock&quot; title=&quot;oneblock&quot; src=&quot;/static/57f01735485d5754daf782676ce01d9f/c1b63/oneblock.png&quot; srcset=&quot;/static/57f01735485d5754daf782676ce01d9f/5a46d/oneblock.png 300w,
 /static/57f01735485d5754daf782676ce01d9f/0a47e/oneblock.png 600w,
@@ -8,38 +8,91 @@
 &lt;br /&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Polkadot Hackthon&lt;/strong&gt; 2022 Project hosted by One Block &amp;#x26; Parity&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Staking curating platform&lt;/strong&gt; in Polkadot ecosytem that recommends our platform users to have highest profit for staking rewards.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Staking curating platform&lt;/strong&gt; in Polkadot ecosytem that recommends our users to have highest profit for staking rewards.&lt;/p&gt;
 &lt;p&gt;If you want to know what NPoS is check my writing for &lt;a href=&quot;https://cocoyoon.medium.com/overview-of-polkadot-nominated-proof-of-staking-e3f053f1bdb2&quot;&gt;Polkadot’s NPoS&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;br /&gt;
-&lt;h3 id=&quot;overview&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#overview&quot; aria-label=&quot;overview permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Overview&lt;/h3&gt;
+&lt;h3 id=&quot;goal&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#goal&quot; aria-label=&quot;goal permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Goal&lt;/h3&gt;
 &lt;br /&gt;
 Polkadot uses Nominated-Proof-of-Staking that any Dot holders can nominate _validators_ who they trust. Interstingly, all validators get equal rewards regardless of their stake amount. Naturally, percentage of stake over total stake for each validator is different.
 &lt;p&gt;&lt;em&gt;For example, let’s say there are two validators A &amp;#x26; B. Total stake of A is 1000 DOT and B is 500 DOT. Polkadot pays out equal reward to A and B. If someone wants to stake their DOT, it would be more profitable.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Nominating&lt;/strong&gt; in NPoS is not “set and forget” operation. Nominator should take care of their nomination intent to be active nominator which is called &lt;strong&gt;&lt;em&gt;“Bag Lists”&lt;/em&gt;&lt;/strong&gt; and keep track of their trusted validators frequently which is annoying.&lt;/p&gt;
-&lt;p&gt;However, for most of the general user, it is hard to understand the system. This is what I am trying to implement for &lt;em&gt;One Block Hackathon 2022&lt;/em&gt;. Considering the users’ depth of knowledge, my staking platform not only recommends validators who can give our users highest reward profit but also maintain their position in &lt;em&gt;Bag List&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;However, for most of the general user, it is hard to understand the system. This is what our team is trying to implement on &lt;em&gt;One Block Hackathon 2022&lt;/em&gt;. We want to build a platform that we think the most &lt;em&gt;&lt;strong&gt;user-friendly platform&lt;/strong&gt;&lt;/em&gt; as ever. Considering the users’ depth of knowledge, our staking platform not only recommends validators who can give our users highest reward profit but also maintain their position in &lt;em&gt;Bag List&lt;/em&gt; by automatically send &lt;em&gt;putInFrontOf&lt;/em&gt; extrinsic when user has done &lt;em&gt;bond-more&lt;/em&gt; or &lt;em&gt;bond-less&lt;/em&gt; which is new staking feature in Polkadot. For considering user-friendly, we are planning to launch our platform on Mobile.&lt;/p&gt;
 &lt;br /&gt;
 &lt;h3 id=&quot;implementation&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#implementation&quot; aria-label=&quot;implementation permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Implementation&lt;/h3&gt;
 &lt;br /&gt;
 &lt;ol&gt;
-&lt;li&gt;New User import their wallet.&lt;/li&gt;
+&lt;li&gt;New Users import their pre-existed wallet using Mnemonic phrase or json file.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;br /&gt;
 &lt;ol start=&quot;2&quot;&gt;
-&lt;li&gt;Ask user how many asset to be staked.&lt;/li&gt;
+&lt;li&gt;Choose stakeable asset. For Hackathon demo, we are planning to develop ‘WestEnd’ for Substrate chain ‘MoonbaseAlpha’ for EVM chain.&lt;/li&gt;
 &lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;WestEnd&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;3 options for user.
+- Nominator, Nomination Pool
+
+Nominator
+- User bonds their asset and nominate validators.
+- User can select either curated validators or by their own.
+
+Nomination Pool
+- Users join existed pool.
+- For the future plan, we are trying to curate Nomination Pool.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;MoonbaseAlpha&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;2 options for user.
+- Delegator
+
+Delegator
+- User delegates their asset to either curated validators or by their own.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;br /&gt;
 &lt;ol start=&quot;3&quot;&gt;
-&lt;li&gt;We recommend about five profitable validators to user.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ask user how many asset to be staked.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If users’ amount of staking asset is smaller than minimum bond on the network,&lt;/li&gt;
+&lt;li&gt;Recommend to ‘Nomination Pool’ otherwise ‘Nominator’&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
 &lt;br /&gt;
 &lt;ol start=&quot;4&quot;&gt;
-&lt;li&gt;User select the validator and stake their asset. Done.&lt;/li&gt;
+&lt;li&gt;Ask users to choose action. &lt;em&gt;Bond&lt;/em&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;br /&gt;
 &lt;ol start=&quot;5&quot;&gt;
-&lt;li&gt;When user wants to &lt;em&gt;bond more&lt;/em&gt; or &lt;em&gt;unbond&lt;/em&gt; their asset, trigger &lt;em&gt;putInfrontOf&lt;/em&gt; extrinsic automatically to place our user proper position in Bags.&lt;/li&gt;
-&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Asset Tracking with Substrate Runtime]]></title><description><![CDATA[Shipment Tracking and Verification on Substrate The aim of this project is to build a shipment tracking and verification using substrate…]]></description><link>https://jeongsoyoun.github.io/Portfolio/polkadot_dev_camp/</link><guid isPermaLink="false">https://jeongsoyoun.github.io/Portfolio/polkadot_dev_camp/</guid><pubDate>Mon, 30 May 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;br /&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1200px; &quot;&gt;
+&lt;li&gt;We recommend our curated profitable validators to user.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;There are several things about good-validators for each network&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;WestEnd
+
+1. Comission is lower than 20%
+2. Percentage of Own Stake is higher
+3. Less Nominators
+4. Number of elected based on NPoS
+5. Having on-chain identity
+6. No Slashing
+7. One operator is operating one validator.
+8. Performance of block-production
+
+MoonbaseAlpha
+
+1. Performance of block-production
+2. Less Delegators&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;br /&gt;
+&lt;ol start=&quot;6&quot;&gt;
+&lt;li&gt;Users stake their asset.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;br /&gt;
+&lt;ol start=&quot;7&quot;&gt;
+&lt;li&gt;When users opens app. Their stake assets would be presented on our notification spot, we called &lt;strong&gt;&lt;em&gt;Control Tower&lt;/em&gt;&lt;/strong&gt;. Here, user can do &lt;em&gt;bond more&lt;/em&gt;, &lt;em&gt;scheduled bond less&lt;/em&gt;. When users choose one of these actions, we send &lt;em&gt;putInfrontOf&lt;/em&gt; extrinsic automatically to put our users proper position in &lt;em&gt;Bag List&lt;/em&gt;.&lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Asset Tracking with Substrate Runtime]]></title><description><![CDATA[Polkadot Dev Camp Project Asset Tracking System based on Substrate Goal The aim of this project is to build a shipment tracking and…]]></description><link>https://jeongsoyoun.github.io/Portfolio/polkadot_dev_camp/</link><guid isPermaLink="false">https://jeongsoyoun.github.io/Portfolio/polkadot_dev_camp/</guid><pubDate>Mon, 30 May 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;br /&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1200px; &quot;&gt;
       &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 40%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAIAAAB2/0i6AAAACXBIWXMAAAsTAAALEwEAmpwYAAABM0lEQVQY03WRP08CQRDFr1duZ3b3ENj7f7e7hweXw4CisTF2otHKYEgsTEyMoVK00cYCSgv5AH5VFyoBTV42mWR+b9/MWBT1mhA0kBRRLktFWRNJBEQaETtdvKgkKVIorFUyQ1BVJwuioxotgcQNOQzzgQgu/aAbBd0k3o/DnoENmWzAmoJ08/t269nnPWC7UTkV9ZOo/Tp++Z48vc1mX+eDUWU7BqqNhbXyLYnr6i4oPgTtEttzxGmcPqKdeI2yczwPs5vALapObtIx1EZrcFKLrrP+nFdLM6fffne9K7AF433Z/xTqrLIV/o65EhtRc0zC5oPIJzX3wiumiIqxoq7H+nDo8BAh+xdezqwWFqwj85HbuoWKz509vnMAdmKusNZsbZ5qaZEybpRRWKwQTflX2w/UQj8EEZl52wAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;dev camp&quot; title=&quot;dev camp&quot; src=&quot;/static/d8098b1340468285b9ec2dd464035229/c1b63/dev_camp.png&quot; srcset=&quot;/static/d8098b1340468285b9ec2dd464035229/5a46d/dev_camp.png 300w,
 /static/d8098b1340468285b9ec2dd464035229/0a47e/dev_camp.png 600w,
@@ -48,11 +101,46 @@ Polkadot uses Nominated-Proof-of-Staking that any Dot holders can nominate _vali
     &lt;/span&gt;&lt;/p&gt;
 &lt;br /&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Shipment Tracking and Verification on Substrate&lt;/p&gt;
+&lt;p&gt;Polkadot Dev Camp Project&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Asset Tracking System based on Substrate&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;goal&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#goal&quot; aria-label=&quot;goal permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Goal&lt;/h2&gt;
+&lt;p&gt;The aim of this project is to build a shipment tracking and verification using &lt;em&gt;Substrate&lt;/em&gt;. The Minimum Viable Product (MVP) will have the functionality to create a shipment with a unique ID and a predefined static route. The verification component will consist of generating a secret key for the next transit point of the shipment at every transit point. Since we’re using &lt;em&gt;blockchain&lt;/em&gt;, it is fully end-to-end system and transparency.&lt;/p&gt;
+&lt;p&gt;Only the owner node can accept the package and it then becomes fully responsible for delivering the package to the next temporary owner. More general purpose than most IOT based blockchains. It doesn’t require an IOT device. Blockchain is agnostic to the choice of generated physical tags - anything from Barcode or QR code to RFID works.&lt;/p&gt;
+&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1200px; &quot;&gt;
+      &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 53.666666666666664%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAABVElEQVQoz51SwXKCMBD1/79GxotH+QEHR7GC9FJtBTUoBNQk4OtmtQpO6aGZeUl2N3nZfZve9XrFf0bXvZ6dLkXGUGV+w0myrc8l2+Zy4v3tjERldCcpE57zFEUaozxsUaYJ2+dM4ESwvos88iM2Jnef0PRAJ2FX6qaqoUwFTbCr0oZ9zZJf8cjw4axrXquqossV7/OiRJaTBEqxrbX+U9deV+qH4xHT6Qwz34fvzxFF7xBCPC7GSXJDnOBrs6FKTLvkhIJBECCXEkVZQqQHhOESyyUhivCxWmFPhFmWQ8oCo5GLwWAAp9+H53lQVEGLcLVew5tMiCjFbi+QbLcI72SWOAhCjsXkt6vrunAcB8PhEOPxmCVpEVrNmvrsRYr5/I2zflssGIJ8zZKTZsnatJvSHDU1x1BnX0dtm3LXqrMpP2TtLwD6Jpp1UUo/Qb7fzz+/zTcuNVMssgplPAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;dev camp design1&quot; title=&quot;dev camp design1&quot; src=&quot;/static/823200e6a3eac8eb89502f4574dd5310/c1b63/dev_camp_design1.png&quot; srcset=&quot;/static/823200e6a3eac8eb89502f4574dd5310/5a46d/dev_camp_design1.png 300w,
+/static/823200e6a3eac8eb89502f4574dd5310/0a47e/dev_camp_design1.png 600w,
+/static/823200e6a3eac8eb89502f4574dd5310/c1b63/dev_camp_design1.png 1200w,
+/static/823200e6a3eac8eb89502f4574dd5310/cd138/dev_camp_design1.png 1220w&quot; sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot;&gt;
+    &lt;/span&gt;
+&lt;br&gt;
+&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1200px; &quot;&gt;
+      &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 53.666666666666664%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAABh0lEQVQoz51TXW+CMBT1//8VX3zxyReNEWfczPzAz6mJ3wgI0lKgAmdtdWjmdMuanNyWe8/p6W3J4R8jTdOHudwpChASFxEjCjygl+ifETIVI99TiE88E/1JOMcZBTHXoPYOvmOCHgwExBHzPZhrwRdruSETa89YqM2eCj6yHicpeJzgJMDjWEX57VbsOy6C6V1/JI6EKDhHDx6hcD0P1Pef9k/mckmSgEiyJNAzQVIc18XeNGEKWJaNg+MowS9iLFzHgiv5cp45DKMI4/EYg8EAs/lcFckxmU5RLpdRq2nQ6nW0Ox0Ye1PlCKXodnvo9np4b7cxHI2vPYwijkqlglKphMlkAs8jWKxWwg27OxILAuwMA4vlEsViEfl8HoVCAbquX48chhHeWi1omobhcKTsy2N8TGd4aTRUri4cNpuvMC1LEd3jETVRX61WVU7v96+CnHOsNxsshavtbpf1wrJtrNcbbLdbFWWN7PP5BSRgLEAQhPAZg39zWdmzSf/wJyRJ+ustfwJPQk4ufgFegAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;dev camp design2&quot; title=&quot;dev camp design2&quot; src=&quot;/static/e1942d01db05d2a1fb7d4c6268d6c87a/c1b63/dev_camp_design2.png&quot; srcset=&quot;/static/e1942d01db05d2a1fb7d4c6268d6c87a/5a46d/dev_camp_design2.png 300w,
+/static/e1942d01db05d2a1fb7d4c6268d6c87a/0a47e/dev_camp_design2.png 600w,
+/static/e1942d01db05d2a1fb7d4c6268d6c87a/c1b63/dev_camp_design2.png 1200w,
+/static/e1942d01db05d2a1fb7d4c6268d6c87a/5c744/dev_camp_design2.png 1206w&quot; sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot;&gt;
+    &lt;/span&gt;
 &lt;br /&gt;
-&lt;p&gt;The aim of this project is to build a shipment tracking and verification using &lt;em&gt;substrate&lt;/em&gt;. The Minimum Viable Product (MVP) will have the functionality to create a shipment with a unique ID and a predefined static route. The verification component will consist of generating a secret key for the next transit point of the shipment at every transit point.&lt;/p&gt;
-&lt;h3 id=&quot;implementation&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#implementation&quot; aria-label=&quot;implementation permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Implementation&lt;/h3&gt;
+&lt;h2 id=&quot;design&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#design&quot; aria-label=&quot;design permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Design&lt;/h2&gt;
+&lt;br /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Manager&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;One account that manages a number of &lt;em&gt;transit points&lt;/em&gt; and has the power to &lt;strong&gt;add&lt;/strong&gt; or &lt;strong&gt;remove&lt;/strong&gt; transit points. In Substrate, this would be &lt;strong&gt;&lt;em&gt;sudo&lt;/em&gt;&lt;/strong&gt; account who is the god-like in Substrate-based blockchain. We check this sudo account using &lt;em&gt;ensure-root&lt;/em&gt; macros.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Transit Nodes&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Each transit point has a unique id and serves as both a &lt;strong&gt;sender&lt;/strong&gt; and &lt;strong&gt;receiver&lt;/strong&gt; of packages. In the MVP, each originating transit point also sets the route and calls a blockchain function that &lt;strong&gt;creates a key&lt;/strong&gt; and &lt;em&gt;sets the next transit point as the next owner&lt;/em&gt; of the package.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Customers&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In this implementation customers can only access the state of the chain for the current location and status of the package. State will be stored in &lt;strong&gt;storage&lt;/strong&gt; in Substrate.&lt;/p&gt;
+&lt;br /&gt;
+&lt;h2 id=&quot;implementation&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#implementation&quot; aria-label=&quot;implementation permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Implementation&lt;/h2&gt;
 &lt;p&gt;Let there be:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;N transit points { TP1, TP2, …, TPN}&lt;/li&gt;
@@ -87,10 +175,15 @@ Polkadot uses Nominated-Proof-of-Staking that any Dot holders can nominate _vali
 &lt;li&gt;Customers: In the MVP, customers can only access the state of the chain for the current location and status of the package.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&quot;technical-design-todo&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#technical-design-todo&quot; aria-label=&quot;technical design todo permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Technical Design Todo&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Implement algorithm to choose route&lt;/li&gt;
-&lt;li&gt;See how we can make use of off-chain workers (OCW)&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Substrate FRAME]]></title><description><![CDATA[Introduction  Substrate is blockchain framework that makes developer build their own blockchain easily. All of the Polkadot/Kusama…]]></description><link>https://jeongsoyoun.github.io/Blockchain/substrate_frame/</link><guid isPermaLink="false">https://jeongsoyoun.github.io/Blockchain/substrate_frame/</guid><pubDate>Sun, 01 May 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;br /&gt;&lt;img src=&quot;/21b64a43b31dc28b05053c6d1c50f067/substrate.gif&quot; width=&quot;600&quot; height=&quot;300&quot;&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Implement algorithm to choose route.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;What routing algorithm should be chosen? Maybe DFS since its complexity could be O(N)&lt;/li&gt;
+&lt;li&gt;Doing it off-chain or on-chain? If the algorithm is not too complexed, we could do on-chain.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;project&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#project&quot; aria-label=&quot;project permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Project&lt;/h2&gt;
+&lt;p&gt;Visit &lt;a href=&quot;https://github.com/Polkadot-DevCamp-2022/sub-tracker&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/-GitHub-0077B5?style=flat&amp;#x26;logo=Github&amp;#x26;logoColor=white&amp;#x26;link=https://github.com/Polkadot-DevCamp-2022/sub-tracker/&quot; alt=&quot;Github Badge&quot;&gt;&lt;/a&gt; to see the project&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Substrate FRAME]]></title><description><![CDATA[Introduction  Substrate is blockchain framework that makes developer build their own blockchain easily. All of the Polkadot/Kusama…]]></description><link>https://jeongsoyoun.github.io/Blockchain/substrate_frame/</link><guid isPermaLink="false">https://jeongsoyoun.github.io/Blockchain/substrate_frame/</guid><pubDate>Sun, 01 May 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;br /&gt;&lt;img src=&quot;/21b64a43b31dc28b05053c6d1c50f067/substrate.gif&quot; width=&quot;600&quot; height=&quot;300&quot;&gt;
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Introduction&lt;/p&gt;
